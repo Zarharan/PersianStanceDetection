@@ -8,8 +8,6 @@ In addition, we have released FullDataset.txt, this dataset can be used in order
 
 We prepared a guideline in both English and Persian language, which consists of notes, suggestions and examples about stance labels. The file named GuidLine_FA.pdf contains Persian guideline and the file named GuideLine_EN.pdf contains English guideline. 
 
-Other sections of the dataset and our data collection tools will be released soon.
-
 # The Dataset License 
 
 Our Persian stance classification dataset is being provided to you under license CC BY-NC. You can read more about this licence [here](https://creativecommons.org/licenses/by-nc/4.0).
