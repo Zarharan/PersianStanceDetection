@@ -1,12 +1,10 @@
 # Persian Stance Classification
 
-We released here a Persian dataset which can be used for a number of NLP tasks in the context of fact-checking. Although this dataset can be used for fact-checking and summarization, the focus of this work is on stance classification as a stepping stone for fake news detection in Persian language.
+We released here a Persian dataset that can be used for a number of NLP tasks in the context of fact-checking. Although this dataset can be used for fact-checking and summarization, the focus of this work is on stance classification as a stepping stone for fake news detection in the Persian language.
 
-In order to collect this dataset, after collecting articles, for each claim we allocate three labels; first label is article (body text) stance according to the claim (article-claim stance), second label is article’s headline stance according to the claim (headline-claim stance) and the third one is article (body text) stance according to its headline (article-headline stance). We release here article-claim stance as ArticleToClaim.txt file and headline-claim stance as HeadlineToClaim.txt file.
-In addition, we have released FullDataset.txt, this dataset can be used in order to stance detection and fake or rumor detection in Persian.
+In order to collect this dataset, after collecting articles, for each claim we allocate three labels; the first label is article (body text) stance according to the claim (article-claim stance), the second label is the article’s headline stance according to the claim (headline-claim stance) and the third one is article (body text) stance according to its headline (article-headline stance). We release here article-claim stance as ArticleToClaim.txt file and headline-claim stance as HeadlineToClaim.txt file. In addition, we have released FullDataset.txt, this dataset can be used in order to stance detection and fake or rumor detection in Persian.
 
-
-We prepared a guideline in both English and Persian language, which consists of notes, suggestions and examples about stance labels. The file named GuidLine_FA.pdf contains Persian guideline and the file named GuideLine_EN.pdf contains English guideline. 
+We prepared a guideline in both English and Persian language, which consists of notes, suggestions, and examples about stance labels. The file named GuidLine_FA.pdf contains a Persian guideline and the file named GuideLine_EN.pdf contains an English guideline.
 
 ## The Dataset License 
 
